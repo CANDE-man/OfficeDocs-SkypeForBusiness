@@ -117,7 +117,7 @@ Configure the UseNewTeamsClient setting to one of the following possible values:
 | Setting | Explanation |
 | :----- | :----- |
 | MicrosoftChoice | Default setting. This value lets Microsoft control if the Teams (preview) toggle switch is shown based on product readiness. |
-|User choice| This value lets the new Teams toggle switch display to all users. Users can choose to opt in or out.|
+| UserChoice| This value lets the new Teams toggle switch display to all users. Users can choose to opt in or out.|
 | AdminDisabled | This value hides the new Teams toggle switch from view. Users won't be able to opt in to the new Teams.| 
 
 Here are the steps needed to configure this setting in PowerShell:
